@@ -52,9 +52,6 @@ The model is optimized, and the predictive accuracy is increased to over 75%, or
 - The model's weights are saved every 5 epochs
 - The results are saved to an HDF5 file
 
-### Deliverable 4: A Written Report on the Neural Network Model
-README.md
-
 ## Results: Using bulleted lists and images to support your answers, address the following questions.
 
 ### Data Preprocessing
