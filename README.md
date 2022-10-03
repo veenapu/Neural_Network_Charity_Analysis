@@ -52,7 +52,7 @@ The model is optimized, and the predictive accuracy is increased to over 75%, or
 - The model's weights are saved every 5 epochs
 - The results are saved to an HDF5 file
 
-## Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results: 
 
 ### Data Preprocessing
 What variable(s) are considered the target(s) for your model?
