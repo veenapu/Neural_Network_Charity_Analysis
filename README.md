@@ -73,33 +73,33 @@ The model has 2 hidden layers for the neural network. The first layer has 80 neu
 
 The first and the second hidden layers have the 'relu' activation function while the output layer has 'sigmoid.
 
-fig1
-![fig1](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig1.PNG)
+Fig1
+![Fig1](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig1.PNG)
 
 Were you able to achieve the target model performance?
 The model was not able to reach the 75% target and the accuracy of the model was 68%
 
 fig2
-![fig2](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig2.PNG)
+![Fig2](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig2.PNG)
 
 What steps did you take to try and increase model performance?
 Attempt 1: 
 -  Additional feature 'USE_CASE' column was removed and rest of the features stayed the same but the accuracy dropped to 67%.
 
-fig3
-![fig3](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig3_attempt1.PNG)
+Fig3
+![Fig3](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig3_attempt1.PNG)
 
 Attempt 2: 
 -  Additional neurons added to the hidden layers and the accuracy to 53%.
 
-fig4
-![fig4](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig4_attempt2.PNG)
+Fig4
+![Fig4](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig4_attempt2.PNG)
 
 Attempt 3: 
 -  Additional neurons added to the hidden layers and accuracy went up to 59%.
 
-fig5
-![fig5](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig5_attempt3.PNG)
+Fig5
+![Fig5](https://github.com/veenapu/Neural_Network_Charity_Analysis/blob/main/Images/fig5_attempt3.PNG)
 
 ## Summary: 
 ### Summarize the overall results of the deep learning model. 
